@@ -1,1 +1,1 @@
-# Chat_App
+# Chat Application Flutter Firebase
